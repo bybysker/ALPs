@@ -1,0 +1,13 @@
+
+Undertand how to talk to v0:
+
+The following link could help [It's from @sharkqwy](https://github.com/sharkqwy/v0prompt/blob/main/README.md)
+
+- Use o1-preview demo examples for the reasoning as examples [Here is the link](https://openai.com/index/learning-to-reason-with-llms/)
+
+- Most importantly, go back and forth
+
+** I can also fine tune a model from trials and take the pic of the output that will be evaluated as a label
+The only problem with that is for fine tuning, I need hundreds to thousands of labeled examples . which will require a lot of efforts 
+I am not willing to put in . 
+Any way, Ideally, I should keep a track of the landing 
