@@ -11,3 +11,7 @@ The following link could help [It's from @sharkqwy](https://github.com/sharkqwy/
 The only problem with that is for fine tuning, I need hundreds to thousands of labeled examples . which will require a lot of efforts 
 I am not willing to put in . 
 Any way, Ideally, I should keep a track of the landing 
+
+========
+
+After the first prompt, i have to find a way to make the business idea more concise, precise and elaborated 
